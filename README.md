@@ -1,6 +1,6 @@
-# 🎓 SAMS — Student Academic Management System
+#  SAMS — Student Academic Management System
 
-A full-stack, production-ready academic management platform built with **Next.js 14**, **MySQL** (Railway), and **NextAuth.js**.
+A full-stack, production-ready academic management platform built with **Next.js 14**, **MySQL** , and **NextAuth.js**.
 
 ---
 
@@ -38,7 +38,7 @@ A full-stack, production-ready academic management platform built with **Next.js
 
 ---
 
-## 🚀 Local Setup
+##  Local Setup
 
 ### 1. Clone the repository
 ```bash
@@ -147,4 +147,4 @@ Create Faculty and Student accounts through the admin dashboard.
 
 ---
 
-© 2024 SAMS — Student Academic Management System
+
