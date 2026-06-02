@@ -2,7 +2,7 @@
 
 A full-stack, production-ready academic management platform built with **Next.js 14**, **MySQL** , and **NextAuth.js**.
 
----
+
 
 ## ✨ Features
 
@@ -20,7 +20,7 @@ A full-stack, production-ready academic management platform built with **Next.js
 | Reports | Full academic report PDF print via stored procedure |
 | Audit Log | Auto-logged on grade/attendance changes |
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@ A full-stack, production-ready academic management platform built with **Next.js
 | Hosting | Vercel (serverless) |
 | DB Hosting | Railway (free MySQL cloud) |
 
----
+
 
 ##  Local Setup
 
@@ -92,7 +92,7 @@ Visit [http://localhost:3000](http://localhost:3000)
 4. Change `NEXTAUTH_URL` to your Vercel URL (e.g. `https://sams.vercel.app`)
 5. **Deploy** — all API routes auto-deploy as serverless functions
 
----
+
 
 ## 🗄️ Database Schema
 
@@ -108,7 +108,7 @@ MySQL features used:
 - **Triggers** — auto grade assignment, audit logging
 - **Views** — `v_student_dashboard`
 
----
+
 
 ## 📁 Project Structure
 
@@ -135,7 +135,7 @@ sams/
     └── schema.sql          # Complete MySQL schema
 ```
 
----
+
 
 ## 🔐 Default Credentials
 
@@ -145,6 +145,6 @@ sams/
 
 Create Faculty and Student accounts through the admin dashboard
 
----
+
 
 
