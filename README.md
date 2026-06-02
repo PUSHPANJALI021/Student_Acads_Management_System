@@ -143,7 +143,7 @@ sams/
 |---|---|---|
 | Admin | admin@sams.edu | Admin@123 |
 
-Create Faculty and Student accounts through the admin dashboard.
+Create Faculty and Student accounts through the admin dashboard
 
 ---
 
